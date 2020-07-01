@@ -9,3 +9,5 @@
 - Eliel Câmara
 - Flavio Fernandes Lisboa
 - Walber Lisboa Lucas 
+
+- Gabriel Lima
